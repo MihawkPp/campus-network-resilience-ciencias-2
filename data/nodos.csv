@@ -1,0 +1,19 @@
+id,nombre,tipo,x_m,y_m,demanda_gbps,critico
+CDP,Centro de Datos Principal,centro_datos,400,300,0,si
+CDR,Centro de Datos de Respaldo,centro_datos,720,520,0,si
+HN,Hub Norte,hub,400,500,0,no
+HS,Hub Sur,hub,400,90,0,no
+HE,Hub Este,hub,640,300,0,no
+HO,Hub Oeste,hub,180,320,0,no
+BIB,Biblioteca Central,edificio,290,400,4,no
+ADM,Edificio Administrativo,edificio,470,210,2,no
+ING,Facultad de Ingeniería,edificio,620,170,5,no
+CIE,Facultad de Ciencias,edificio,710,70,4,no
+SAL,Facultad de Salud y Clínica,edificio,110,490,6,si
+LAB,Laboratorios de Cómputo,edificio,560,430,8,no
+AUD,Auditorio Mayor,edificio,250,190,1,no
+DEP,Polideportivo,edificio,110,90,1,no
+RES,Residencias Estudiantiles,edificio,260,560,3,no
+CAF,Cafetería Central,edificio,330,230,1,no
+ART,Facultad de Artes,edificio,60,260,2,no
+SEG,Centro de Seguridad y Cámaras,edificio,780,330,3,si

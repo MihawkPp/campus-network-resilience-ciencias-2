@@ -1,0 +1,8 @@
+origen,destino,demanda_gbps,prioridad,justificacion
+CDP,CDR,20,alta,Replicación continua de datos entre centros de datos
+CDP,SAL,6,alta,Historias clínicas y sistemas de la clínica universitaria
+CDP,SEG,3,alta,Video de cámaras y control de accesos del campus
+CDR,SAL,6,alta,Ruta de respaldo para la clínica si cae el centro principal
+CDP,LAB,8,media,Mayor consumo del campus (salas de cómputo)
+CDP,ING,5,media,Laboratorios y servidores de investigación
+CDP,RES,3,baja,Servicio de internet para residencias
